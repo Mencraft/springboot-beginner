@@ -6,7 +6,7 @@ This is a simple Spring Boot project built with Gradle. It serves as a template 
 
 Make sure you have the following installed:
 
-- Java (version X.X.X)
+- Java (version 17)
 - Gradle (version X.X.X)
 
 ## Getting Started
