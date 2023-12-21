@@ -19,7 +19,7 @@ Make sure you have the following installed:
 2. Naviagte to project folder
     
     ```bash
-      cd springboot-beginner
+    cd springboot-beginner
 
 3. Run this command to install:
 
@@ -29,4 +29,4 @@ Make sure you have the following installed:
 4. Run this command to run: 
 
     ```bash
-      ./gradlew bootRun
+    ./gradlew bootRun
