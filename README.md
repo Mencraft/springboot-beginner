@@ -17,7 +17,8 @@ Make sure you have the following installed:
    git clone https://github.com/Mencraft/springboot-beginner.git
 
 2. Naviagte to project folder
-  ```bash
+    
+    ```bash
       cd springboot-beginner
 
 3. Run this command to install:
